@@ -1,0 +1,1 @@
+print ("I will study Python  every day!")
